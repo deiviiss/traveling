@@ -1,3 +1,17 @@
+# DarkMode NextJs
+Nextjs Landing Page (Aplicación Web Frontend)
+
+Curso Tailwindcss Platzi
+
+https://platzi.com/cursos/tailwind/
+
+- -> Ejemplo https://traveling-three.vercel.app/
+
+![](https://repository-images.githubusercontent.com/514954862/7ca377a0-3e86-4955-b6a2-8a6cdb68d7da)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
